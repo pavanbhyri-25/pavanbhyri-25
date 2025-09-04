@@ -10,4 +10,5 @@
 
 🌱 Currently learning at Scaler
 
-📫 Reach me on LinkedIn
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/pavan-sai-bhyri-6b285324a)
+

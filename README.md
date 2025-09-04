@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 Hi, I’m Pavan
 
-<!--
-**pavanbhyri-25/pavanbhyri-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Recent CSE Graduate (2024)
 
-Here are some ideas to get you started:
+📊 Aspiring Data Analyst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Skilled in: SQL, Python, Tableau, EDA, Statistics
+
+🔍 Interested in: Data Analysis, Machine Learning, Product Analytics
+
+🌱 Currently learning at Scaler
+
+📫 Reach me on LinkedIn

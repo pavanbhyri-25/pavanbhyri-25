@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m **pavan_bhyri**
+👋 Hi, I’m **pavan_bhyri**  
 🎓 Recent CSE Graduate (2024)  
 📊 Aspiring **Data Analyst**  
 💻 Skilled in: SQL, Python, Tableau, EDA, Statistics  
@@ -7,9 +7,9 @@
 🌱 Currently learning at **Scaler**  
 
 🎉 **Fun Facts**:  
-- Big fan of Chess ♟️ — it sharpens my mind.   
+- Big fan of Chess ♟️ — it sharpens my mind.  
+- Foodie at heart ❤️ Paneer Butter Masala is my comfort food.  
 - Love exploring tech + data trends 🚀.  
-- Foodie at heart ❤️ Paneer Butter Masala is my comfort food. 
 - Breathing exercises keep me calm and focused 🌬️.  
 
 ---

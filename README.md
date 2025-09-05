@@ -1,10 +1,10 @@
 # 💫 About Me:
-👋 Hi, I’m **Pavan Sai Bhyri** (pavan_bhyri) <br>  
-🎓 Recent CSE Graduate (2024) <br>  
-📊 Aspiring **Data Analyst** <br>  
-💻 Skilled in: SQL, Python, Tableau, EDA, Statistics <br>  
-🔍 Interested in: Data Analysis, Product Analytics, Machine Learning <br>  
-🌱 Currently learning at **Scaler** <br>  
+👋 Hi, I’m **pavan_bhyri**  
+🎓 Recent CSE Graduate (2024)  
+📊 Aspiring **Data Analyst**  
+💻 Skilled in: SQL, Python, Tableau, EDA, Statistics  
+🔍 Interested in: Data Analysis, Product Analytics, Machine Learning  
+🌱 Currently learning at **Scaler**  
 
 🎉 **Fun Facts**:  
 - Big fan of Chess ♟️ — it sharpens my mind.  
@@ -21,19 +21,25 @@
 
 ---
 
+## 🛠️ Most used languages
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?logo=none&logoColor=white)
+
+---
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pavanbhyri-25&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pavanbhyri-25&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pavanbhyri-25&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pavanbhyri-25&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-<img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" alt="Gif" width=700 height=500 /> <br/>
+<!-- Replace this GIF with a male dev GIF saved in assets/dev-guy.gif -->
+<img src="assets/dev-guy.gif" alt="Dev Guy" width="700" />
 
 ---
 

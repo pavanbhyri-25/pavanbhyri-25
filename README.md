@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m **pavan_bhyri**  
+👋 Hi, I’m **pavan_bhyri**
 🎓 Recent CSE Graduate (2024)  
 📊 Aspiring **Data Analyst**  
 💻 Skilled in: SQL, Python, Tableau, EDA, Statistics  
@@ -7,9 +7,9 @@
 🌱 Currently learning at **Scaler**  
 
 🎉 **Fun Facts**:  
-- Big fan of Chess ♟️ — it sharpens my mind.  
-- Foodie at heart ❤️ Paneer Butter Masala is my comfort food.  
+- Big fan of Chess ♟️ — it sharpens my mind.   
 - Love exploring tech + data trends 🚀.  
+- Foodie at heart ❤️ Paneer Butter Masala is my comfort food. 
 - Breathing exercises keep me calm and focused 🌬️.  
 
 ---
@@ -30,16 +30,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=pavanbhyri-25&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pavanbhyri-25&theme=radical&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pavanbhyri-25&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-<!-- Replace this GIF with a male dev GIF saved in assets/dev-guy.gif -->
-<img src="assets/dev-guy.gif" alt="Dev Guy" width="700" />
 
 ---
 
